@@ -15,4 +15,4 @@ spec:
     spec:
       containers:
         - name: demo
-          image: registry.cn-hangzhou.aliyuncs.com/acs/rollouts-demo:red
+          image: registry.cn-hangzhou.aliyuncs.com/acs/rollouts-demo:green
