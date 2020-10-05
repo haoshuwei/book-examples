@@ -1,0 +1,16 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: frontend
+  labels:
+    app: guestbook
+    tier: frontend
+spec:
+  # uncomment the following line if you don't want to use a LoadBalancer
+  # type: NodePort
+  type: LoadBalancer
+  ports:
+    - port: 80
+  selector:
+    app: guestbook
+    tier: frontend
