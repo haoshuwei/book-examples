@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aff2d21a-0be7-44cd-8c36-fa4a414167fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/examples/guestbook/frontend-deployment.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/guestbook/frontend-service.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/guestbook/redis-master-deployment.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/guestbook/redis-master-service.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/guestbook/redis-slave-deployment.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/guestbook/redis-slave-service.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/guestbook/frontend-deployment.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/examples/guestbook/frontend-deployment.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/guestbook/redis-master-deployment.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/examples/guestbook/redis-master-deployment.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/guestbook/redis-slave-deployment.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/examples/guestbook/redis-slave-deployment.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

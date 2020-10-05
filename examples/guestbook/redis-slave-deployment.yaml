@@ -21,6 +21,7 @@ spec:
       containers:
         - name: slave
           image: registry.cn-hangzhou.aliyuncs.com/haoshuwei24/redis-slave:v3
+          imagePullPolicy: Always
           resources:
             requests:
               cpu: 100m
