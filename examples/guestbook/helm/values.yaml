@@ -6,8 +6,7 @@ frontend:
     tag: "v1"
 
   envVars:
-    - name: REGION
-      value: cn-beijing
+    REGION: "cn-beijing"
 
   service:
     type: NodePort
